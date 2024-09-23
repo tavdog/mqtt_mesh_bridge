@@ -1,0 +1,4 @@
+cryptography==3.4.8
+meshtastic==2.2.22
+paho_mqtt==1.6.1
+setuptools
