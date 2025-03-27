@@ -39,17 +39,12 @@ node_info_interval_minutes = 60
 # mesh_root_topic = "msh/EU_868/2/e/"
 # mesh_channel = "Kwind"
 ### Mesh Mqtt settings
-mesh_broker = "152.53.16.228"
-mesh_port = 1883
-mesh_username = ""
-mesh_password = ""
-mesh_root_topic = "msh/"
-mesh_channel = "Kwind"
+
 ############################
 
 ### OMG MQTT settings
 
-omg_server = "152.53.16.228"
+omg_server = "xxx.xx.xx.xxx"
 
 # set the source topic, assumed to be plaintext json
 # omg_subscribe_topic = "home/OMG_lilygo_rtl_433_ESP/RTL_433toMQTT/Fineoffset-WS80/10954"
